@@ -16,4 +16,8 @@ defineProps({
         <h1>This is an home page</h1>
     </main>
 </template>
-<style scoped lang="scss"></style>
+<style scoped lang="scss">
+main h1 {
+    color: rgb(0 0 0 / 12%);
+}
+</style>
