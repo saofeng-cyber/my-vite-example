@@ -1,4 +1,4 @@
-module.exports = {
+export default {
     extends: ['git-commit-emoji', 'cz'],
     rules: {
         'body-leading-blank': [1, 'always'],
